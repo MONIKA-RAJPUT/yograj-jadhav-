@@ -1,0 +1,16 @@
+
+body {
+    background-image: url(P77.jpg);
+   background-repeat: inherit;
+    background-size: 100%;
+    color: rgb(247, 247, 240);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
+    color: rgb(250, 244, 244);
+    text-align: center;
+    padding-left: 50px; padding-right: 50px;
+}
+    .row{ border: rgb(248, 244, 239) solid 2px;
+        border-radius: 50px 50px;
+    }
+    #one{height: 55px; width: 55px;}
